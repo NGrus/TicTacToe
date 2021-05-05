@@ -72,6 +72,6 @@ function winningMessage(){
         won = true
         setTimeout(function(){
                 alert("Is there really a winner here?");
-        }, 1);
+        }, 20);
 }
 

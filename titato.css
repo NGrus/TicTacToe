@@ -43,3 +43,16 @@ body    {
     letter-spacing:3px;
     background-color:transparent;
 }
+
+#demohome  {
+    height:80px;
+    width:180px;
+    margin-top:150px;
+    background-color:rgb(0, 0, 0);
+    color:rgb(248, 4, 4);
+    font-weight:50;
+    font-size:40px;
+    box-shadow:inset red 0px 0px 30px;
+    letter-spacing:1px;
+    border-color:black;
+}
