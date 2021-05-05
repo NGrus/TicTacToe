@@ -32,6 +32,7 @@ body    {
     font-weight:50;
     font-size:large;
     box-shadow:inset red 0px 0px 15px;
+    letter-spacing:1px;
     border-color:black;
 }
 
@@ -39,5 +40,6 @@ body    {
     color:rgb(255, 4, 4);
     margin-top:90px;
     width:500px;
+    letter-spacing:3px;
     background-color:transparent;
 }
